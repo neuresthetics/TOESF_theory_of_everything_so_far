@@ -1,6 +1,6 @@
 Here is what Gemini says when I send this README in as a prompt:
 
-![alt text](Gemini.png)
+![alt text](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far/blob/main/img/Gemini.png)
 
 ### Hardening Bounds (Probabilistic Convergence)
 Our framework bounds speculation: Residuals \( \epsilon < 0.02 \), isomorphism score \( I \geq 0.98 \), gaps <3% variance (e.g., quantum gravity). Tetralemma: Affirm discreteness/deny continuum/both in paths/neither in unified space.
