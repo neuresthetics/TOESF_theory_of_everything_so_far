@@ -1,3 +1,8 @@
+This project is a historic snapshot of spinoza_lab;
+
+[spinoza_lab; Godel AI Machine](https://github.com/neuresthetics/spinoza_lab)
+
+
 Here is what Gemini says when I send this README in as a prompt:
 
 ![alt text](https://github.com/neuresthetics/TOESF_theory_of_everything_so_far/blob/main/img/Gemini.png)
