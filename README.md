@@ -1,6 +1,6 @@
 This project is a historic snapshot of spinoza_lab;
 
-[spinoza_lab; Godel AI Machine](https://github.com/neuresthetics/spinoza_lab)
+⭐ [spinoza_lab; Godel AI Machine](https://github.com/neuresthetics/spinoza_lab)
 
 
 Here is what Gemini says when I send this README in as a prompt:
@@ -9,7 +9,7 @@ Here is what Gemini says when I send this README in as a prompt:
 
 ---
 
-# ⭐ AND NOW THE README
+## README
 
 ### Hardening Bounds (Probabilistic Convergence)
 Our framework bounds speculation: Residuals \( \epsilon < 0.02 \), isomorphism score \( I \geq 0.98 \), gaps <3% variance (e.g., quantum gravity). Tetralemma: Affirm discreteness/deny continuum/both in paths/neither in unified space.
