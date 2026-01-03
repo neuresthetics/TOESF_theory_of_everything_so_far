@@ -178,3 +178,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Acknowledgments
 
 Built via collaborative steel-manning process; inspired by Verlinde, Skordis-Zlosnik, Jacobson. Thanks to xAI for simulation tools.
+
+⚠️ Academic Disclaimer
+
+Status: Candidate Theory. While v6.0.0 is mathematically self-consistent and passes all current "Killer Gates" (CMB, Lensing, Ghosts), it requires Euclid Telescope data (2027) to confirm the specific P(k) void spectrum predictions.
