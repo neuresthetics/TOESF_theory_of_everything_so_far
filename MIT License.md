@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 xAI Emergent Gravity Project
+Copyright (c) 2026 Neuresthetics Emergent Gravity Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
